@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 
-"""app to connect to api"""
+"""
+This module contains the principal application
+app to connect to api
+"""
 
 import os
 from models import storage
